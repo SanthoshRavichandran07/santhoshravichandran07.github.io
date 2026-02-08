@@ -1,13 +1,13 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern, responsive **personal portfolio website** built using **HTML, CSS, and JavaScript** to showcase my profile, skills, and projects.  
 Designed with **mobile-first responsiveness**, smooth animations, and a clean UI.
 
-🔗 **Live Demo:** [View My Site](https://santhoshravichandran07.github.io)
+**Live Demo:** [View My Site](https://santhoshravichandran07.github.io)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 **Santhosh Ravichandran**  
 B.Tech in Information Technology  
@@ -17,7 +17,7 @@ I am a motivated software developer with strong fundamentals in **Core Java, Web
 
 ---
 
-## ✨ Features
+## Features
 
 - **Fully Responsive Design** (Mobile, Tablet, Desktop)
 - **Animated Hamburger Menu**
@@ -30,7 +30,7 @@ I am a motivated software developer with strong fundamentals in **Core Java, Web
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology       | Usage                  |
 |------------------|------------------------|
@@ -42,23 +42,21 @@ I am a motivated software developer with strong fundamentals in **Core Java, Web
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
-Portfolio
-├── images
-│   ├── Santhosh_Photo.jpg
-│   └── SR_Logo.png
-├── icons
-│   └── githublogo.png
-├── index.html
-├── index.css
-├── script.js
-└── README.md
-
+- **Portfolio/**
+  - **images/**
+    - Santhosh_Photo.jpg
+    - SR_Logo.png
+  - **icons/**
+    - githublogo.png
+  - index.html
+  - index.css
+  - script.js
 
 ---
 
-## 🎨 Animations & Effects
+## Animations & Effects
 
 - Typing Effect (Backend → Full Stack → Java Developer → Software Engineer)
 - Fade-up reveal on scroll
@@ -68,9 +66,9 @@ Portfolio
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 📧 Email: **santhoshravi7503@gmail.com**  
-- 🔗 LinkedIn: [Santhosh Ravichandran](https://www.linkedin.com/in/santhosravichandran/)  
-- 📍 Location: Tamil Nadu, India  
+- Email: **santhoshravi7503@gmail.com**  
+- LinkedIn: [Santhosh Ravichandran](https://www.linkedin.com/in/santhosravichandran/)  
+- Location: Tamil Nadu, India  
 
