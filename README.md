@@ -44,6 +44,17 @@ I am a motivated software developer with strong fundamentals in **Core Java, Web
 
 ## 📂 Project Structure
 
+Portfolio
+├── images
+│   ├── Santhosh_Photo.jpg
+│   └── SR_Logo.png
+├── icons
+│   └── githublogo.png
+├── index.html
+├── index.css
+├── script.js
+└── README.md
+
 
 ---
 
