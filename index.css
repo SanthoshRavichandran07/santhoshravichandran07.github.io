@@ -181,8 +181,8 @@ body {
 }
 
 .about-inner>.left-about>.photo {
-    height: 250px;
-    width: 250px;
+    height: 350px;
+    width: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -192,7 +192,7 @@ body {
 .about-inner>.left-about>.photo>img {
     height: 100%;
     width: 100%;
-    border-radius: 50%;
+    border-radius: 30% 5% ;
 }
 
 .photo img {
@@ -232,12 +232,14 @@ body {
 
 .right-about>.about-content>p {
     text-align: justify;
+    letter-spacing: 1.4px;
     line-height: 30px;
 }
 
 #role{
     color: rgb(252, 163, 17);
     font-size: 20px;
+    letter-spacing: 1.4px;
 }
 
 #role::after {
@@ -265,6 +267,7 @@ body {
     padding: 10px;
     border: 0.5px solid white;
     background-color: transparent;
+    letter-spacing: 1.2px;
 
     color: white;
     margin-left: 10px;
@@ -340,6 +343,7 @@ body {
 .project > .link> a> p{
     color: black;
     text-align: center;
+    letter-spacing: 1.4px;
     font-weight:800;
     font-size: 24px;
 }
@@ -372,15 +376,11 @@ body {
 
     }
 }
-/* .project > #projectNo1{
-    background: url("./image/student-management-system.png");
-    background-repeat: no-repeat;
-    background-position: center;
-} */
+
 
 
 /* Contact */
-#contact {
+#contact { 
     background-color: rgba(40, 40, 40, 0.300);
    
 }
