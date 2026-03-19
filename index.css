@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Manrope", sans-serif;
     background-color: black;
     color: white;
 }
@@ -80,7 +80,7 @@ body {
     position: absolute;
     width: 0;
     height: 2px;
-    bottom: 5px;
+    bottom: 2px;
     left: 0;
     background-color: rgb(252, 163, 17);
     transition: 0.3s;
@@ -156,13 +156,19 @@ body {
 .home-inner > p { font-size: 18px; }
 
 .home-inner > .icons-details {
+
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 15px;
 }
 
-.fa-brands { font-size: 25px; color: white; transition: all 0.3s; }
+.fa-brands { 
+    font-size: 25px; 
+    transform: scale(1.25);
+    color: white; 
+    transition: all 0.3s; 
+}
 .fa-brands:hover { transform: scale(1.15); }
 
 /* =====================
@@ -271,7 +277,9 @@ body {
     cursor: pointer;
 }
 
-.right-about > .skills-outer > button:hover { transform: translateY(-8px) scale(1.05); }
+.right-about > .skills-outer > button:hover { 
+    transform: translateY(-8px) scale(1.05); 
+}
 
 .skills-outer button::after {
     content: "";
